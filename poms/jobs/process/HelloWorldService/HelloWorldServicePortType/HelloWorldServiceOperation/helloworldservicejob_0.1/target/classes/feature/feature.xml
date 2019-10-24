@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<features xmlns="http://karaf.apache.org/xmlns/features/v1.0.0" name="HelloWorldServiceJob-feature">
+<feature name="HelloWorldServiceJob-feature" version="0.1.0">
+<bundle>mvn:org.example.tpsoaptalend.job/HelloWorldServiceJob/0.1.0</bundle>
+<config name="HelloWorldServiceJob.talendcontext.Default">
+</config>
+</feature>
+</features>

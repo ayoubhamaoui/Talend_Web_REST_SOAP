@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2019-10-22T20:50:09.289+0100">
+  <deletedFolders>process/HelloWorldService/HelloWorldServicePortType/HelloWorldServiceOperation</deletedFolders>
+  <deletedFolders>process/HelloWorldService/HelloWorldServicePortType</deletedFolders>
+  <deletedFolders>process/HelloWorldService</deletedFolders>
+  <deletedItems id="_fvmRcPUEEemnIdDC9CzdTA" path="HelloWorldService/HelloWorldServicePortType/HelloWorldServiceOperation" type="PROCESS"/>
+</recyclebin:RecycleBin>
